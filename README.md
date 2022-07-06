@@ -4,8 +4,8 @@
 **HTML, CSS, JavaScript**
 
 ## Integrantes:
-**Jose Daniel Soto Zapata** ,
-**Evelyn Dulhary Gutierrez Atehortua**
+1. **Jose Daniel Soto Zapata**
+2. **Evelyn Dulhary Gutierrez Atehortua**
 **11°1**
 
 ## Institucion:
